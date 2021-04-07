@@ -1,4 +1,4 @@
-# lumiere
+# Lumiere
 
 A react native and firebase scaffold
 
