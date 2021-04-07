@@ -1,5 +1,6 @@
 # Lumiere
 
+(in progress)
 A react native and firebase scaffold
 
 - Firebase Integration (Auth)
